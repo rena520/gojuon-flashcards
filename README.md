@@ -2,7 +2,7 @@
 
 給日語初學者的五十音練習站：翻卡自評＋聽寫兩種模式，逐卡計時、每次練習都存進資料庫，用歷史紀錄判斷每張卡的熟練度。
 
-線上版：[nihon.party](https://nihon.party)（同 [ja.nihon.party](https://ja.nihon.party)）
+線上版： [ja.nihon.party](https://ja.nihon.party)）
 
 ## 功能
 
@@ -11,7 +11,7 @@
 - **逐卡計時＋熟練度**：每張卡的作答與耗時都入庫，熟練度由歷史紀錄推算，不是一次定生死
 - **發音**：71 個音的 TTS 發音（微軟 Edge TTS 日語女聲 Nanami），後台可逐音上傳自己的錄音覆蓋
 - **後台管理**：密碼登入（bcrypt 雜湊），卡片增刪改、音頻管理
-- 配色與姊妹站 [ツキカハゴロモの手帳](https://www.ivday.com/a/) 統一
+
 
 ## 技術
 
